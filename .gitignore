@@ -1,0 +1,15 @@
+# Dataset files (too large)
+*.json
+archive/
+*.zip
+
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
